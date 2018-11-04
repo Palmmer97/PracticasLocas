@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\bin\Debug\Torres.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\bin\Debug\Torres.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\bin\Debug\Torres.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\obj\Debug\Torres.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\obj\Debug\Torres.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Torres\Torres\obj\Debug\Torres.pdb

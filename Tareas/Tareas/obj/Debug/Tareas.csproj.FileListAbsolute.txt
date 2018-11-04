@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\obj\Debug\Tareas.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\bin\Debug\Tareas.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\bin\Debug\Tareas.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\obj\Debug\Tareas.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Tareas\Tareas\obj\Debug\Tareas.pdb

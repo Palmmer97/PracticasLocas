@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\bin\Debug\VacasCruzapuente.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\bin\Debug\VacasCruzapuente.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\bin\Debug\VacasCruzapuente.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\obj\Debug\VacasCruzapuente.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\obj\Debug\VacasCruzapuente.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\VacasCruzapuente\VacasCruzapuente\obj\Debug\VacasCruzapuente.pdb
